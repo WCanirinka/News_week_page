@@ -10,7 +10,7 @@
     <br />    
     <br />
     ·
-     <a href="https://wcanirinka.github.io/Apple-page/">View Demo</a>
+     <a href="https://wcanirinka.github.io/Apple-page/">Demo Link</a>
     ·    
   </p>
 </p>
