@@ -1,5 +1,5 @@
 body {
-    background-color: #d4d4d4;
+    background-color: #f4f5f6;
     font-family: 'Roboto Condensed', sans-serif;
     color: #333;
     overflow-x: hidden;
@@ -78,10 +78,10 @@ body {
 }
 
 #top-story::-webkit-scrollbar, #opinion::-webkit-scrollbar {
-    width: 0 !important;
+    width: 0;
 }
 
-.main #featured-story .card .card-img-overlay, 
+.main .featured-story .card .card-img-overlay, 
 #top-story .card .card-img-overlay,
 #inthemag-left .card-img-overlay, #nw-editors-pick .card-img-overlay{
     padding: 8px 15px 9px;
@@ -90,7 +90,7 @@ body {
     width: fit-content;
 }
 
-.main #featured-story .card .card-img-overlay h5,
+.main .featured-story .card .card-img-overlay h5,
 #inthemag-left .card-img-overlay h5, 
 #nw-editors-pick .card-img-overlay h5 {
     font-size: 17px;
@@ -100,17 +100,17 @@ body {
     padding: 8px 15px 9px;
 }
 
-#featured-story .card:last-child .card-img-overlay {
-    width: 50%;
+.featured-story .card:last-child .card-img-overlay {
+    width: 30%;
 }
 
-.main #featured-story .card:last-child .card-img-overlay h5 {
+.main .featured-story .card:last-child .card-img-overlay h5 {
     font-size: 17px;
     font-family: 'Roboto Condensed', sans-serif;
     font-weight: bold;
 }
 
-#featured-story .card .wrap {
+.featured-story .card .wrap {
     min-height: 33px;
 }
 
@@ -118,7 +118,7 @@ body {
     font-size: 17px;
     font-family: 'Roboto Condensed', sans-serif;
     font-weight: bold;
-    width: 60px;
+    width: 95px;
     padding: 8px 15px 9px;
 }
 
@@ -127,20 +127,20 @@ body {
     margin-bottom: 20px;
 }
 
-#culture-item {
+.culture-item {
     height: 410px
 }
 
-#culture-item .card-body {
+.culture-item .card-body {
     padding: 15px 10px 20px;
 }
 
-#culture-item .badge {
+.culture-item .badge {
     
     font-size: 13px; 
 }
 
-#culture-item .badge a {
+.culture-item .badge a {
     color: #272727;
     background-color: #c2d4d7;
     font-weight: 300;
@@ -519,12 +519,12 @@ body {
         width: 258px;
     }
 
-    #culture-item img {
+    .culture-item img {
         height: 480px;
         width: auto;
     }
 
-    #culture-item {
+    .culture-item {
         height: auto;
     }
 
@@ -541,7 +541,7 @@ body {
         line-height: 20px;
     }
 
-    #top-story, #featured-story {
+    #top-story, .featured-story {
         height: 1800px;
     }
 
@@ -577,7 +577,7 @@ body {
 
 @media (min-width: 992px) { 
 
-    #top-story, #featured-story, #opinion {
+    #top-story, .featured-story, #opinion {
         height: 1620px;
     }
 
@@ -588,7 +588,7 @@ body {
 }
 
 @media (min-width: 1000px) {
-    #top-story, #featured-story, #opinion {
+    #top-story, .featured-story, #opinion {
         height: 1670px;
     }
 
@@ -599,11 +599,11 @@ body {
 
   /*  Large devices (desktops, 992px and up) */
 @media (min-width: 1200px) { 
-    #top-story, #featured-story, #opinion {
+    #top-story, .featured-story, #opinion {
         height: 1730px;
     }
 
-    .main #featured-story .article .card-img-overlay {
+    .main .featured-story .article .card-img-overlay {
         top: 234px;
     }
     
