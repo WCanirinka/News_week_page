@@ -28,7 +28,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Screenshot Image](images/screen-shot.png)
   I am Wilfried. I am part of the Microverse Project and I did this page according to the required specifications.  
 
 
