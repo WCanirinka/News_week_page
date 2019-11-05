@@ -1,5 +1,5 @@
 <!-- PROJECT LOGO -->
-![Screenshot Image](images/Screenshot-apple-page.png)
+![Screenshot Image](images/screen-shot.png)
 
 <br />
 <p align="center">
