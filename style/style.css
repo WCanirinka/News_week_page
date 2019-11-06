@@ -133,10 +133,10 @@ body {
   text-transform: uppercase;
   margin-top: 4px; }
 
-#latest-news .latest-news-item .wrap {
+.latest-news .latest-news-item .wrap {
   width: 135px; }
 
-#latest-news .latest-news-item .card-title {
+.latest-news .latest-news-item .card-title {
   font-size: 17px;
   font-weight: bold;
   color: #333; }
@@ -155,22 +155,22 @@ body {
   font: bold 18px/18px "Roboto Condensed",sans-serif;
   text-transform: uppercase; }
 
-#sign-up-box {
+.sign-up-box {
   max-width: 300px;
   margin: 0 auto 30px;
   border: 1px solid #e5e5e5;
   background-color: #f4f5f6;
   padding: 20px; }
 
-#sign-up-box a:first-child {
+.sign-up-box a:first-child {
   color: #333;
   font: bold 19px/19px "Roboto Condensed",sans-serif; }
 
-#sign-up-box a:last-child {
+.sign-up-box a:last-child {
   color: #333;
   font: bold 15px/15px "Roboto Condensed",sans-serif; }
 
-#sign-up-box img {
+.sign-up-box img {
   background-color: #f72210; }
 
 #fr-right img, #nw-editors-pick .mag-title img,
@@ -421,7 +421,7 @@ body {
     width: 100%;
     max-width: 100%; } }
 @media (max-width: 764px) and (min-width: 481px) {
-  #more-stories img {
+  .more-stories img {
     width: 258px; }
 
   .culture-item img {
