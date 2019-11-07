@@ -10,7 +10,7 @@
     <br />    
     <br />
     ·
-     <a href="https://wcanirinka.github.io/Apple-page/">Demo Link</a>
+     <a href="https://rawcdn.githack.com/WCanirinka/News_week_page/ebb21eda3ff25f25ba993eb871cf3b67869ce9b0/index.html">Live Demo</a>
     ·    
   </p>
 </p>
