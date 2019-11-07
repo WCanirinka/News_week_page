@@ -10,7 +10,7 @@
     <br />    
     <br />
     ·
-     <a href="https://rawcdn.githack.com/WCanirinka/News_week_page/ebb21eda3ff25f25ba993eb871cf3b67869ce9b0/index.html">Live Demo</a>
+     <a href="https://wcanirinka.github.io/News_week_page/">Live Demo</a>
     ·    
   </p>
 </p>
