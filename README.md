@@ -1,5 +1,5 @@
 <!-- PROJECT LOGO -->
-![Screenshot Image](images/Screenshot-apple-page.png)
+![Screenshot Image](images/screen-shot.png)
 
 <br />
 <p align="center">
@@ -10,7 +10,7 @@
     <br />    
     <br />
     ·
-     <a href="https://wcanirinka.github.io/Apple-page/">Demo Link</a>
+     <a href="https://rawcdn.githack.com/WCanirinka/News_week_page/ebb21eda3ff25f25ba993eb871cf3b67869ce9b0/index.html">Live Demo</a>
     ·    
   </p>
 </p>
@@ -28,7 +28,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Screenshot Image](images/screen-shot.png)
   I am Wilfried. I am part of the Microverse Project and I did this page according to the required specifications.  
 
 
