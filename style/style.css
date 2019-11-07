@@ -611,6 +611,10 @@ body {
   }
 }
 
+.no-underline {
+  text-decoration: none !important;
+}
+
 @media (max-width: 992px) {
   .navbar {
     position: fixed;
